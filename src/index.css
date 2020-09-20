@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.recipe-image img {
+  max-height: 200px;
+}
+
+.prep-info p {
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.directions {
+  text-align: left;
+}
+
+.ingredients {
+  text-align: left;
+}
